@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/ITKjM1A.jpeg" width="50" height="50"> ReloadExplorer
+# <img src="https://i.imgur.com/e5WlAAn.png" width="50" height="50"> ReloadExplorer
 Welcome to ReloadExplorer, created by Dencrn. Before running any version of ReloadExplorer, The icons for ReloadExplorer are different depending on the version of Windows you are running (eg. Windows 8.1, Windows 10, Windows 11). The entire program has been created inside of Visual Studio Code.
 
 ![JewleahInstaller Main Menu](https://i.imgur.com/uiIZdmo.png)
